@@ -1,0 +1,7 @@
+{
+  "name": "UsmbQuiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
